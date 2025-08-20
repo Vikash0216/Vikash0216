@@ -9,14 +9,13 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Full Stack Projects** using **React, Node.js, Express, MongoDB, Appwrite**  
+- 🔭 I’m currently working on **Full Stack Projects** using **Next.js, React, Node.js, Express, MongoDB**  
 - 🌱 I’m currently learning **TypeScript, Next.js, and System Design**  
 - 👯 I’m looking to collaborate on **open-source projects, startups, and freelance gigs**  
 - 🧑‍🏫 I have 4+ years of experience as a **Computer Science educator**  
 - 🌍 I want to make tech accessible in rural India  
 - 📫 Reach me at: **vikashmahato0216@gmail.com**  
 - 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: *I turned a village coaching center into a gateway to the tech world!*
 
 ---
 
